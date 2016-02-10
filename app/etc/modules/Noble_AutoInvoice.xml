@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Noble_AutoInvoice>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Noble_AutoInvoice>
+    </modules>
+</config>
